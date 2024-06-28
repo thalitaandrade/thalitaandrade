@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, me chamo Thalita, mas prefiro que me chamem de Thata :relaxed:
+## Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**thalitaandrade/thalitaandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+ <h1 align="left">Thalita Andrade</h1>
+ <a href="https://www.instagram.com/thalitaanddrade/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://www.linkedin.com/in/thalita-andrade/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
 
-Here are some ideas to get you started:
+## Hello, World :earth_americas:!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+- 🔭 Atualmente sou engenheira de dados no Itaú
+- 👨‍🎓 Sou pós graduada em **Engenharia de Software** pela **Universidade Municipal de São Caetano do Sul**.
+- 👨‍🎓 Sou formada em Gestão da Tecnologia da Informação pela Faculdade de Tecnologia Anchieta
+- ⚡ Curiosidade: antes de me tornar engenheira de dados, trabalhei muitos anos como desenvolvedora .NET (C#, VB.NET, ASP.NET Web Forms, MVC, Web API)
+  
